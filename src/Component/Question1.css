@@ -1,0 +1,20 @@
+.state{
+    width: 100%;
+    height: 90vh;
+    background-image: url("C:\Users\hp\Desktop\cgs\cgs\public\backg.png");
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+.greetings{
+    width: 500px;
+    height: 25px;
+    position: absolute;
+    top: 50px;
+    left: 500px;
+    
+}
+.greetings h2{
+    width: 500px;
+    height: 25px;
+}

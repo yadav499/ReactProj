@@ -1,0 +1,44 @@
+.card3{
+    width: 100%;
+    height: 90vh;
+}
+.card-container{
+    width:600px;
+    height: 400px;
+    position: absolute;
+    top: 100px;
+    margin-left: 400px;
+    margin-bottom: 70px;
+    text-align: center;
+    align-items: center;
+    padding: 40px 40px;
+    border: 1px solid black;
+}
+.card-container-question{
+    width: 400px;
+    height: 30px;
+    text-align: center;
+    align-items: center;
+}
+.card-container-question h3{
+    font-size: 34px;
+}
+.card-answer{
+   width: 400px;
+   height: 30px;
+   margin: 60px 50px;
+}
+.card-answer input{
+    width: 400px;
+    height: 30px;
+    border-radius: 10px 10px 10px 10px;
+    border-style: none;
+}
+.option{
+    width: 100px;
+    display: flex;
+    margin-top:10px ;
+}
+.option input{
+    margin: 0 40px;
+}

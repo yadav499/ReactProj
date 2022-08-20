@@ -1,0 +1,31 @@
+.about{
+    width: 100%;
+    height:97vh;
+    background-color: whitesmoke;
+}
+.about-heading{
+    width: 300px;
+    height: 30px;
+    margin-left:80px;
+    font-size: 30px;
+    text-align: center;
+    align-items: center;
+    
+}
+.about-content{
+    width: 500px;
+    height: 300px;
+   /* margin-left: 500px;*/
+    margin-top: 40px;
+    text-align: center;
+}
+.about-content p{
+    font-size: 17px;
+    line-height: 20px;
+}
+.about-info{
+    width: 500px;
+    height: 500px;
+    margin-left: 500px;
+
+}

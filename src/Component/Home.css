@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.imgLogo{
+    width: 50px;
+    height: 50px;
+    margin-left: 30px;
+}
+/* .navbar{
+    width: 100%;
+    height: 8vh;
+    background-color: #377D71;
+    display: flex;
+    align-items: center;
+  
+}
+.navbar img{
+    width: 60px;
+    height: 60px;
+    margin-left: 50px;    
+}
+.navbar h2{
+    font-size: 18px;
+}
+.navbar ul{
+    display: flex;
+    margin: 20px 20px 20px 100px;
+}
+.navbar ul li {
+list-style: none;
+
+    
+}
+.navbar ul li a{
+ text-decoration: none;
+ margin: 60px 20px;
+ color: #fff;
+
+} */
+.first{
+   width: 100%;
+   height: 100vh;
+   background-image: linear-gradient(to bottom,rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url("C:\Users\hp\Desktop\cgs\cgs\public\bg (4).jpg");
+   background-size: cover;
+   background-position: center;
+}
+/* .cont{
+    text-align: center;
+} */
+.first h1{
+    color: #fff;
+    text-align: center;
+    font-size: 50px;
+    padding: 130px 0 0 80px;
+}
+.formhomeSearch{
+    text-align: center;
+}
+.homeSearch{
+    width: 800px;
+    height: 50px;
+    border-radius: 9px;
+    margin-left: 78px;
+    margin-top: 20px;
+}
+.homeSearch1{
+    width: 165px;
+    height: 60px;
+}
+.first h3{
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    color: #fff;
+    font-size: 32px;
+    text-align: center;
+    padding-left: 80px;
+    letter-spacing: 3px;
+}
+.first img {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 100px;
+    left: 1100px;
+    border-radius: 4%;
+}
+.first .s-img{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 100px;
+    left: 890px;
+    border-radius: 4%;
+}
+.first .t-img{
+width: 200px;
+height: 200px;
+position: absolute;
+top: 310px;
+left:990px ;
+}
+.sign{
+margin:50px 50px 50px 100px;
+width: 120px;
+height: 40px;
+background-color: darkgreen;
+border-radius: 50px;
+color: #fff;
+border: 2px solid white;
+font-family: sans-serif;
+font-size: 20px;
+}
+.login{
+    margin:50px 50px 50px 30px;
+width: 120px;
+height: 40px;
+color: black;
+font-weight: bold;
+background-color: white;
+border-radius: 50px;
+border: 2px solid green;
+cursor: pointer;
+font-size: 20px;
+text-decoration: none;
+
+}
+.sign{
+    cursor: pointer;
+}
+.table1{
+    margin-left: 190px;
+    height: 350px;
+    width: 1100px;
+    font-size: 35px;
+}
+.table1 tr .card1{
+    width: 120px;
+    height: 120px;
+}
+.table1 tr td .rescont{
+    text-decoration: none;
+    color: black;
+}
+.botimg{
+    margin-top: 100px;
+}
+.headerItem{
+    font-size: 45px;
+}
+.resources .txtcolor{
+    text-align: center;
+    color: white;
+    text-decoration: underline;
+}

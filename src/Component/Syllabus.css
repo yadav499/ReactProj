@@ -1,0 +1,33 @@
+.syllabus{
+    width: 100%;
+    height: 98vh;
+    
+}
+.syllabus-heading{
+    margin-left: 700px;
+    width: 100px;
+    height: 25px;
+    margin-top: 20px;
+}
+.syllabus-heading h2{
+    width: 100px;
+    height: 25px;
+    font-size: 35px;
+    
+}
+.syllabus-content{
+    width: 1000px;
+    height: 500px;
+    margin:30px 250px;
+    display: flex;
+    
+}
+.card{
+    width: 200px;
+    height: 280px;
+    background-color: blanchedalmond;
+    border: 2px solid black;
+    margin: 20px 30px;
+}
+
+

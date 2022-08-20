@@ -1,0 +1,40 @@
+{
+  "Are you from which class?": [
+    {
+      "10": {
+        "what's your favourite subject?": {
+          "science": {
+            "Which subject do you want like the most in science?": {
+              "Physics": {
+                "How much time do you spent on studing physics daily in hrs?": [],
+                "What do you prefer the most": {
+                  "numerical": {
+                    "How many numericals do you solve per day? (in hours)": [],
+                    "How often you are interested in solving real life numericals problems?": [
+                      "Always",
+                      "Sometimes",
+                      "Never"
+                    ]
+                  },
+                  "theory": ""
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "12": {
+        "what's your favourite subject?": [
+          {
+            "maths": "maths is my favourite subject",
+            "science": "science is my favourite subject",
+            "english": "english is my favourite subject",
+            "other": "other is my favourite subject"
+          }
+        ]
+      }
+    }
+  ]
+}
